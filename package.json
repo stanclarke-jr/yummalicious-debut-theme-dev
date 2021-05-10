@@ -1,0 +1,25 @@
+{
+  "name": "yummalicious-debut-theme-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stanclarke-jr/yummalicious-debut-theme-dev.git",
+  "author": "Stan Clarke, Jr. <stan@stanclarkejr.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "@shopify/themekit": "^1.1.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.3.0"
+  }
+}
